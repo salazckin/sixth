@@ -77,45 +77,45 @@ img {border:0;}
 #nav li a {width:80px; height:40px; display:block;}
 #nav li.active a {width:80px; height:80px; margin-bottom:20px; margin-left:-1px; opacity:1;/* -webkit-animation:fadeIn ease-in 1; -moz-animation:fadeIn ease-in 1; animation:fadeIn ease-in 1; -webkit-animation-fill-mode:forwards; -moz-animation-fill-mode:forwards; animation-fill-mode:forwards; -webkit-animation-duration:0.5s; -moz-animation-duration:0.5s; animation-duration:0.5s;*/}
 
-#nav li a.i1 {background:url('/i/normal/icon_1.svg') 46% 0 no-repeat;}
-#nav li a.i2 {background:url('/i/normal/icon_2.svg') 46% 0 no-repeat;}
-#nav li a.i3 {background:url('/i/normal/icon_3.svg') 46% 0 no-repeat;}
-#nav li a.i4 {background:url('/i/normal/icon_4.svg') 46% 0 no-repeat;}
-#nav li a.i5 {background:url('/i/normal/icon_5.svg') 46% 0 no-repeat;}
-#nav li a.i6 {background:url('/i/normal/icon_6.svg') 46% 0 no-repeat;}
-#nav li a.i7 {background:url('/i/normal/icon_7.svg') 46% 0 no-repeat;}
-#nav li a.i8 {background:url('/i/normal/icon_8.svg') 46% 0 no-repeat;}
-#nav li a.i9 {background:url('/i/normal/icon_9.svg') 46% 0 no-repeat;}
+#nav li a.i1 {background:url('https://salazckin.github.io/sixth/i/normal/icon_1.svg') 46% 0 no-repeat;}
+#nav li a.i2 {background:url('https://salazckin.github.io/sixth/i/normal/icon_2.svg') 46% 0 no-repeat;}
+#nav li a.i3 {background:url('https://salazckin.github.io/sixth/i/normal/icon_3.svg') 46% 0 no-repeat;}
+#nav li a.i4 {background:url('https://salazckin.github.io/sixth/i/normal/icon_4.svg') 46% 0 no-repeat;}
+#nav li a.i5 {background:url('https://salazckin.github.io/sixth/i/normal/icon_5.svg') 46% 0 no-repeat;}
+#nav li a.i6 {background:url('https://salazckin.github.io/sixth/i/normal/icon_6.svg') 46% 0 no-repeat;}
+#nav li a.i7 {background:url('https://salazckin.github.io/sixth/i/normal/icon_7.svg') 46% 0 no-repeat;}
+#nav li a.i8 {background:url('https://salazckin.github.io/sixth/i/normal/icon_8.svg') 46% 0 no-repeat;}
+#nav li a.i9 {background:url('https://salazckin.github.io/sixth/i/normal/icon_9.svg') 46% 0 no-repeat;}
 
-#nav li.active a.i1, #nav li.active:hover a.i1 {background:url('/i/active/icon_1.svg') 46% 0 no-repeat;}
-#nav li.active a.i2, #nav li.active:hover a.i2 {background:url('/i/active/icon_2.svg') 46% 0 no-repeat;}
-#nav li.active a.i3, #nav li.active:hover a.i3 {background:url('/i/active/icon_3.svg') 46% 0 no-repeat;}
-#nav li.active a.i4, #nav li.active:hover a.i4 {background:url('/i/active/icon_4.svg') 46% 0 no-repeat;}
-#nav li.active a.i5, #nav li.active:hover a.i5 {background:url('/i/active/icon_5.svg') 46% 0 no-repeat;}
-#nav li.active a.i6, #nav li.active:hover a.i6 {background:url('/i/active/icon_6.svg') 46% 0 no-repeat;}
-#nav li.active a.i7, #nav li.active:hover a.i7 {background:url('/i/active/icon_7.svg') 46% 0 no-repeat;}
-#nav li.active a.i8, #nav li.active:hover a.i8 {background:url('/i/active/icon_8.svg') 46% 0 no-repeat;}
-#nav li.active a.i9, #nav li.active:hover a.i9 {background:url('/i/active/icon_9.svg') 46% 0 no-repeat;}
+#nav li.active a.i1, #nav li.active:hover a.i1 {background:url('https://salazckin.github.io/sixth/i/active/icon_1.svg') 46% 0 no-repeat;}
+#nav li.active a.i2, #nav li.active:hover a.i2 {background:url('https://salazckin.github.io/sixth/i/active/icon_2.svg') 46% 0 no-repeat;}
+#nav li.active a.i3, #nav li.active:hover a.i3 {background:url('https://salazckin.github.io/sixth/i/active/icon_3.svg') 46% 0 no-repeat;}
+#nav li.active a.i4, #nav li.active:hover a.i4 {background:url('https://salazckin.github.io/sixth/i/active/icon_4.svg') 46% 0 no-repeat;}
+#nav li.active a.i5, #nav li.active:hover a.i5 {background:url('https://salazckin.github.io/sixth/i/active/icon_5.svg') 46% 0 no-repeat;}
+#nav li.active a.i6, #nav li.active:hover a.i6 {background:url('https://salazckin.github.io/sixth/i/active/icon_6.svg') 46% 0 no-repeat;}
+#nav li.active a.i7, #nav li.active:hover a.i7 {background:url('https://salazckin.github.io/sixth/i/active/icon_7.svg') 46% 0 no-repeat;}
+#nav li.active a.i8, #nav li.active:hover a.i8 {background:url('https://salazckin.github.io/sixth/i/active/icon_8.svg') 46% 0 no-repeat;}
+#nav li.active a.i9, #nav li.active:hover a.i9 {background:url('https://salazckin.github.io/sixth/i/active/icon_9.svg') 46% 0 no-repeat;}
 
-#nav li:hover a.i1 {background:url('/i/hover/icon_1.svg') 46% 0 no-repeat;}
-#nav li:hover a.i2 {background:url('/i/hover/icon_2.svg') 46% 0 no-repeat;}
-#nav li:hover a.i3 {background:url('/i/hover/icon_3.svg') 46% 0 no-repeat;}
-#nav li:hover a.i4 {background:url('/i/hover/icon_4.svg') 46% 0 no-repeat;}
-#nav li:hover a.i5 {background:url('/i/hover/icon_5.svg') 46% 0 no-repeat;}
-#nav li:hover a.i6 {background:url('/i/hover/icon_6.svg') 46% 0 no-repeat;}
-#nav li:hover a.i7 {background:url('/i/hover/icon_7.svg') 46% 0 no-repeat;}
-#nav li:hover a.i8 {background:url('/i/hover/icon_8.svg') 46% 0 no-repeat;}
-#nav li:hover a.i9 {background:url('/i/hover/icon_9.svg') 46% 0 no-repeat;}
+#nav li:hover a.i1 {background:url('https://salazckin.github.io/sixth/i/hover/icon_1.svg') 46% 0 no-repeat;}
+#nav li:hover a.i2 {background:url('https://salazckin.github.io/sixth/i/hover/icon_2.svg') 46% 0 no-repeat;}
+#nav li:hover a.i3 {background:url('https://salazckin.github.io/sixth/i/hover/icon_3.svg') 46% 0 no-repeat;}
+#nav li:hover a.i4 {background:url('https://salazckin.github.io/sixth/i/hover/icon_4.svg') 46% 0 no-repeat;}
+#nav li:hover a.i5 {background:url('https://salazckin.github.io/sixth/i/hover/icon_5.svg') 46% 0 no-repeat;}
+#nav li:hover a.i6 {background:url('https://salazckin.github.io/sixth/i/hover/icon_6.svg') 46% 0 no-repeat;}
+#nav li:hover a.i7 {background:url('https://salazckin.github.io/sixth/i/hover/icon_7.svg') 46% 0 no-repeat;}
+#nav li:hover a.i8 {background:url('https://salazckin.github.io/sixth/i/hover/icon_8.svg') 46% 0 no-repeat;}
+#nav li:hover a.i9 {background:url('https://salazckin.github.io/sixth/i/hover/icon_9.svg') 46% 0 no-repeat;}
 
-.tablet #nav li.active a.i1, .tablet #nav li.active:hover a.i1 {background:url('/i/active/icon_1.svg') 46% 1px no-repeat;}
-.tablet #nav li.active a.i2, .tablet #nav li.active:hover a.i2 {background:url('/i/active/icon_2.svg') 46% 1px no-repeat;}
-.tablet #nav li.active a.i3, .tablet #nav li.active:hover a.i3 {background:url('/i/active/icon_3.svg') 46% 1px no-repeat;}
-.tablet #nav li.active a.i4, .tablet #nav li.active:hover a.i4 {background:url('/i/active/icon_4.svg') 46% 1px no-repeat;}
-.tablet #nav li.active a.i5, .tablet #nav li.active:hover a.i5 {background:url('/i/active/icon_5.svg') 46% 0 no-repeat;}
-.tablet #nav li.active a.i6, .tablet #nav li.active:hover a.i6 {background:url('/i/active/icon_6.svg') 46% 1px no-repeat;}
-.tablet #nav li.active a.i7, .tablet #nav li.active:hover a.i7 {background:url('/i/active/icon_7.svg') 46% 1px no-repeat;}
-.tablet #nav li.active a.i8, .tablet #nav li.active:hover a.i8 {background:url('/i/active/icon_8.svg') 46% 1px no-repeat;}
-.tablet #nav li.active a.i9, .tablet #nav li.active:hover a.i9 {background:url('/i/active/icon_9.svg') 46% 1px no-repeat;}
+.tablet #nav li.active a.i1, .tablet #nav li.active:hover a.i1 {background:url('https://salazckin.github.io/sixth/i/active/icon_1.svg') 46% 1px no-repeat;}
+.tablet #nav li.active a.i2, .tablet #nav li.active:hover a.i2 {background:url('https://salazckin.github.io/sixth/i/active/icon_2.svg') 46% 1px no-repeat;}
+.tablet #nav li.active a.i3, .tablet #nav li.active:hover a.i3 {background:url('https://salazckin.github.io/sixth/i/active/icon_3.svg') 46% 1px no-repeat;}
+.tablet #nav li.active a.i4, .tablet #nav li.active:hover a.i4 {background:url('https://salazckin.github.io/sixth/i/active/icon_4.svg') 46% 1px no-repeat;}
+.tablet #nav li.active a.i5, .tablet #nav li.active:hover a.i5 {background:url('https://salazckin.github.io/sixth/i/active/icon_5.svg') 46% 0 no-repeat;}
+.tablet #nav li.active a.i6, .tablet #nav li.active:hover a.i6 {background:url('https://salazckin.github.io/sixth/i/active/icon_6.svg') 46% 1px no-repeat;}
+.tablet #nav li.active a.i7, .tablet #nav li.active:hover a.i7 {background:url('https://salazckin.github.io/sixth/i/active/icon_7.svg') 46% 1px no-repeat;}
+.tablet #nav li.active a.i8, .tablet #nav li.active:hover a.i8 {background:url('https://salazckin.github.io/sixth/i/active/icon_8.svg') 46% 1px no-repeat;}
+.tablet #nav li.active a.i9, .tablet #nav li.active:hover a.i9 {background:url('https://salazckin.github.io/sixth/i/active/icon_9.svg') 46% 1px no-repeat;}
 
 .mobile.landscape #nav {top:60%; right:70px;}
 .mobile.portrait #nav {top:53%; right:63px;}
@@ -268,7 +268,7 @@ h3 {font:300 36px/36px 'Open Sans', sans-serif; color:#292929; letter-spacing:4p
 #footer ul li a {text-decoration:none; color:#484848;}
 
 #footer ul li.social {width:200px;}
-#footer ul li.social a {display:inline-block; width:18px; height:18px; background:url('../i/sprite-nav.png') no-repeat; margin:0 10px; text-indent:-9999px;}
+#footer ul li.social a {display:inline-block; width:18px; height:18px; background:url('https://salazckin.github.io/sixth/i/sprite-nav.png') no-repeat; margin:0 10px; text-indent:-9999px;}
 #footer ul li a.fb {background-position:-78px -32px;}
 #footer ul li a.vk {background-position:-78px -66px;}
 
@@ -297,7 +297,7 @@ h3 {font:300 36px/36px 'Open Sans', sans-serif; color:#292929; letter-spacing:4p
 #fp-nav ul li {display:block; width:14px; height:14px; margin-bottom:18px; position:relative;}
 #fp-nav ul li a {display:block; position:relative; z-index:1; width:100%; height:100%; cursor:pointer; text-decoration:none;}
 #fp-nav ul li a.active span {background-position:-78px -232px;}
-#fp-nav ul li a span {width:14px; height:14px; background:url('/i/sprite-nav.png') -78px -262px no-repeat; position:absolute; z-index:1;}
+#fp-nav ul li a span {width:14px; height:14px; background:url('https://salazckin.github.io/sixth/i/sprite-nav.png') -78px -262px no-repeat; position:absolute; z-index:1;}
 #fp-nav ul li .fp-tooltip {display:none;}
 
 #fp-nav.right {width:21px; height:250px; overflow:hidden;}
@@ -387,7 +387,7 @@ h3 {font:300 36px/36px 'Open Sans', sans-serif; color:#292929; letter-spacing:4p
 /* РљРѕРЅС‚Р°РєС‚С‹ */
 
 #contacts {display:table; width:800px; margin:110px auto 100px auto; list-style:none;}
-#contacts li {display:table-cell; width:25%; padding-top:80px; font:400 13.3px/22px 'Open Sans', sans-serif; color:#292929; text-align:center; background:url('/i/sprite-contacts.png') 77px 0 no-repeat;}
+#contacts li {display:table-cell; width:25%; padding-top:80px; font:400 13.3px/22px 'Open Sans', sans-serif; color:#292929; text-align:center; background:url('https://salazckin.github.io/sixth/i/sprite-contacts.png') 77px 0 no-repeat;}
 #contacts li span {display:block; font-size:11px; color:#939393;}
 #contacts li.c1 {padding:80px 0 0 0 !important;}
 #contacts li.c2 {background-position:-131px 0;}
@@ -435,7 +435,7 @@ h3 {font:300 36px/36px 'Open Sans', sans-serif; color:#292929; letter-spacing:4p
 #news-list li div span {display:block; margin:2px 0 15px 0; font-size:11px; color:#939393;}
 #news-list li div a {display:block; margin:30px auto 0 auto; width:110px; padding:12px 15px; border:1px solid #9a9a9a; font:400 10px/9px 'Open Sans', sans-serif; color:#252828; text-decoration:none; text-transform:uppercase; text-align:center; letter-spacing:1.5px; transition:all 0.2s linear 0s; -moz-border-radius:16px; -webkit-border-radius:16px; -khtml-border-radius:16px; border-radius:16px;}
 #news-list li div a:hover {border-color:#5ec3c3; color:#5ec3c3;}
-#news-list li:before {content:''; display:block; width:4px; height:82px; margin:20px auto; background:url('/i/sprite-nav.png') -83px -299px no-repeat;}
+#news-list li:before {content:''; display:block; width:4px; height:82px; margin:20px auto; background:url('https://salazckin.github.io/sixth/i/sprite-nav.png') -83px -299px no-repeat;}
 #news-list li:first-child:before {display:none;}
 
 /*#news-list li > a {display:block; width:600px; height:380px; overflow:hidden;}
